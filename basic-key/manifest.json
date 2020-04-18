@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "RCR",
-  "description": "React, Chrome, and Redux example",
+  "name": "Linkedin scraper",
+  "description": "This is used to scrape linkedin profile data and emails. Please note: Linkedin does not allow the scrapping of emails, so this is just for educational purpose only",
   "version": "0.0.0.1",
   "background": {
     "scripts": [
